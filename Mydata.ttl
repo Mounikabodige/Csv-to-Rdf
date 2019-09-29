@@ -1,0 +1,221 @@
+<http://www.farmingonto.bodige#Garlic>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Turmeric>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Tobacco>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Jowar>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Niger_seed>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Cotton_seed>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Total_Non-Food_grains>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Tall_Fescue_Grass>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Castor_seed>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Total_Oilseeds>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Mungbean>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#French_Bean>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Dry_chilies>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Coconut>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Arecanut>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Arhar>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Jute>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Sannhamp>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Ragi>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Dry_ginger>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Rapeseed_&Mustard>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Total_Fruits_&_Vegetables>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Yellow_Sarson>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Mesta>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Fieldpea>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Banana>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Tapioca>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Barley>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Soyabean>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Total_Fibers>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Indian_Mustard>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Coriander>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Sunflower>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Finger_Millet>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Urdbean>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Rice>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Coffee>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Cardamom>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Small_millets>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Napier_Bajra_Hybrid>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Oat>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Cotton>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Groundnut>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Sweet_potato>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Gram>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Jute_&_Mesta>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Cluster_Bean>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Other_Pulses>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Total_Pulses>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Horse_Gram>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Desi_Cotton>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Maize>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Cotton(lint)>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Coarse_Cereals>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Potato>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Sesamum>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Pearl_Millet>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Black_pepper>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Total_Spices>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Wheat>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Safflower>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Sugarcane>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Rubber>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Onion>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Sesame>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Nine_Oilseeds>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Bengal_Gram>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Lentil>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Bajra>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Linseed>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Cereals>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Chickpea>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Cowpea_(Fodder)>
+        a       <http://www.farmingonto.bodige#crop> .
+
+<http://www.farmingonto.bodige#Tea>
+        a       <http://www.farmingonto.bodige#crop> .

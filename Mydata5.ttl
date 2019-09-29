@@ -1,0 +1,295 @@
+<http://www.farmingonto.bodige#Garlic>
+        <http://www.farmingonto.bodige#yield>
+                "130.1" .
+
+<http://www.farmingonto.bodige#Turmeric>
+        <http://www.farmingonto.bodige#yield>
+                "136.4" .
+
+<http://www.farmingonto.bodige#Tobacco>
+        <http://www.farmingonto.bodige#yield>
+                "118.6" .
+
+<http://www.farmingonto.bodige#Jowar>
+        <http://www.farmingonto.bodige#yield>
+                "115.8" .
+
+<http://www.farmingonto.bodige#Niger_seed>
+        <http://www.farmingonto.bodige#yield>
+                "96.9" .
+
+<http://www.farmingonto.bodige#Cotton_seed>
+        <http://www.farmingonto.bodige#yield>
+                "181.5" .
+
+<http://www.farmingonto.bodige#Total_Non-Food_grains>
+        <http://www.farmingonto.bodige#yield>
+                "123.4" .
+
+<http://www.farmingonto.bodige#Tall_Fescue_Grass>
+        <http://www.farmingonto.bodige#yield>
+                "132.66" .
+
+<http://www.farmingonto.bodige#Castor_seed>
+        <http://www.farmingonto.bodige#yield>
+                "171.9" .
+
+<http://www.farmingonto.bodige#Total_Oilseeds>
+        <http://www.farmingonto.bodige#yield>
+                "126.1" .
+
+<http://www.farmingonto.bodige#Mungbean>
+        <http://www.farmingonto.bodige#yield>
+                "180.5" .
+
+<http://www.farmingonto.bodige#French_Bean>
+        <http://www.farmingonto.bodige#yield>
+                "94.54" .
+
+<http://www.farmingonto.bodige#Dry_chilies>
+        <http://www.farmingonto.bodige#yield>
+                "185.5" .
+
+<http://www.farmingonto.bodige#Coconut>
+        <http://www.farmingonto.bodige#yield>
+                "80.8" .
+
+<http://www.farmingonto.bodige#Arecanut>
+        <http://www.farmingonto.bodige#yield>
+                "105.1" .
+
+<http://www.farmingonto.bodige#Arhar>
+        <http://www.farmingonto.bodige#yield>
+                "98.1" .
+
+<http://www.farmingonto.bodige#Jute>
+        <http://www.farmingonto.bodige#yield>
+                "211.5" , "190.65" .
+
+<http://www.farmingonto.bodige#Sannhamp>
+        <http://www.farmingonto.bodige#yield>
+                "230.9" .
+
+<http://www.farmingonto.bodige#Ragi>
+        <http://www.farmingonto.bodige#yield>
+                "129.6" .
+
+<http://www.farmingonto.bodige#Dry_ginger>
+        <http://www.farmingonto.bodige#yield>
+                "148.8" .
+
+<http://www.farmingonto.bodige#Rapeseed_&Mustard>
+        <http://www.farmingonto.bodige#yield>
+                "140.2" .
+
+<http://www.farmingonto.bodige#Total_Fruits_&_Vegetables>
+        <http://www.farmingonto.bodige#yield>
+                "145.7" .
+
+<http://www.farmingonto.bodige#Yellow_Sarson>
+        <http://www.farmingonto.bodige#yield>
+                "150.2" .
+
+<http://www.farmingonto.bodige#Mesta>
+        <http://www.farmingonto.bodige#yield>
+                "112" , "123.96" .
+
+<http://www.farmingonto.bodige#Fieldpea>
+        <http://www.farmingonto.bodige#yield>
+                "86.34" .
+
+<http://www.farmingonto.bodige#Banana>
+        <http://www.farmingonto.bodige#yield>
+                "165.9" .
+
+<http://www.farmingonto.bodige#Tapioca>
+        <http://www.farmingonto.bodige#yield>
+                "154.8" .
+
+<http://www.farmingonto.bodige#Barley>
+        <http://www.farmingonto.bodige#yield>
+                "138.9" .
+
+<http://www.farmingonto.bodige#Soyabean>
+        <http://www.farmingonto.bodige#yield>
+                "141.9" .
+
+<http://www.farmingonto.bodige#Total_Fibers>
+        <http://www.farmingonto.bodige#yield>
+                "168.6" .
+
+<http://www.farmingonto.bodige#Indian_Mustard>
+        <http://www.farmingonto.bodige#yield>
+                "132.4" .
+
+<http://www.farmingonto.bodige#Coriander>
+        <http://www.farmingonto.bodige#yield>
+                "199.9" .
+
+<http://www.farmingonto.bodige#Sunflower>
+        <http://www.farmingonto.bodige#yield>
+                "114" .
+
+<http://www.farmingonto.bodige#Finger_Millet>
+        <http://www.farmingonto.bodige#yield>
+                "112.12" .
+
+<http://www.farmingonto.bodige#Urdbean>
+        <http://www.farmingonto.bodige#yield>
+                "170.62" .
+
+<http://www.farmingonto.bodige#Rice>
+        <http://www.farmingonto.bodige#yield>
+                "125.2" .
+
+<http://www.farmingonto.bodige#Coffee>
+        <http://www.farmingonto.bodige#yield>
+                "128.5" .
+
+<http://www.farmingonto.bodige#Cardamom>
+        <http://www.farmingonto.bodige#yield>
+                "196.1" .
+
+<http://www.farmingonto.bodige#Small_millets>
+        <http://www.farmingonto.bodige#yield>
+                "182.4" .
+
+<http://www.farmingonto.bodige#Napier_Bajra_Hybrid>
+        <http://www.farmingonto.bodige#yield>
+                "122.36" .
+
+<http://www.farmingonto.bodige#Oat>
+        <http://www.farmingonto.bodige#yield>
+                "146.36" .
+
+<http://www.farmingonto.bodige#Cotton>
+        <http://www.farmingonto.bodige#yield>
+                "165.36" .
+
+<http://www.farmingonto.bodige#Groundnut>
+        <http://www.farmingonto.bodige#yield>
+                "151.2" , "140.2" .
+
+<http://www.farmingonto.bodige#Sweet_potato>
+        <http://www.farmingonto.bodige#yield>
+                "109.6" .
+
+<http://www.farmingonto.bodige#Gram>
+        <http://www.farmingonto.bodige#yield>
+                "121.7" .
+
+<http://www.farmingonto.bodige#Jute_&_Mesta>
+        <http://www.farmingonto.bodige#yield>
+                "211.8" .
+
+<http://www.farmingonto.bodige#Cluster_Bean>
+        <http://www.farmingonto.bodige#yield>
+                "176.52" .
+
+<http://www.farmingonto.bodige#Other_Pulses>
+        <http://www.farmingonto.bodige#yield>
+                "129" .
+
+<http://www.farmingonto.bodige#Total_Pulses>
+        <http://www.farmingonto.bodige#yield>
+                "120.4" .
+
+<http://www.farmingonto.bodige#Horse_Gram>
+        <http://www.farmingonto.bodige#yield>
+                "123.45" .
+
+<http://www.farmingonto.bodige#Desi_Cotton>
+        <http://www.farmingonto.bodige#yield>
+                "123.63" .
+
+<http://www.farmingonto.bodige#Maize>
+        <http://www.farmingonto.bodige#yield>
+                "169.1" , "140.3" .
+
+<http://www.farmingonto.bodige#Cotton(lint)>
+        <http://www.farmingonto.bodige#yield>
+                "207.9" .
+
+<http://www.farmingonto.bodige#Coarse_Cereals>
+        <http://www.farmingonto.bodige#yield>
+                "169.2" .
+
+<http://www.farmingonto.bodige#Potato>
+        <http://www.farmingonto.bodige#yield>
+                "145.2" .
+
+<http://www.farmingonto.bodige#Sesamum>
+        <http://www.farmingonto.bodige#yield>
+                "151.9" .
+
+<http://www.farmingonto.bodige#Pearl_Millet>
+        <http://www.farmingonto.bodige#yield>
+                "90.32" .
+
+<http://www.farmingonto.bodige#Black_pepper>
+        <http://www.farmingonto.bodige#yield>
+                "103.4" .
+
+<http://www.farmingonto.bodige#Total_Spices>
+        <http://www.farmingonto.bodige#yield>
+                "1310.8" .
+
+<http://www.farmingonto.bodige#Wheat>
+        <http://www.farmingonto.bodige#yield>
+                "122.33" .
+
+<http://www.farmingonto.bodige#Safflower>
+        <http://www.farmingonto.bodige#yield>
+                "116.7" .
+
+<http://www.farmingonto.bodige#Sugarcane>
+        <http://www.farmingonto.bodige#yield>
+                "106.7" , "135.74" .
+
+<http://www.farmingonto.bodige#Rubber>
+        <http://www.farmingonto.bodige#yield>
+                "140.9" .
+
+<http://www.farmingonto.bodige#Onion>
+        <http://www.farmingonto.bodige#yield>
+                "130" .
+
+<http://www.farmingonto.bodige#Sesame>
+        <http://www.farmingonto.bodige#yield>
+                "102.3" .
+
+<http://www.farmingonto.bodige#Nine_Oilseeds>
+        <http://www.farmingonto.bodige#yield>
+                "152" .
+
+<http://www.farmingonto.bodige#Bengal_Gram>
+        <http://www.farmingonto.bodige#yield>
+                "120.1" .
+
+<http://www.farmingonto.bodige#Lentil>
+        <http://www.farmingonto.bodige#yield>
+                "99.35" .
+
+<http://www.farmingonto.bodige#Bajra>
+        <http://www.farmingonto.bodige#yield>
+                "175.8" .
+
+<http://www.farmingonto.bodige#Linseed>
+        <http://www.farmingonto.bodige#yield>
+                "123.9" , "111.33" .
+
+<http://www.farmingonto.bodige#Cereals>
+        <http://www.farmingonto.bodige#yield>
+                "141.1" .
+
+<http://www.farmingonto.bodige#Chickpea>
+        <http://www.farmingonto.bodige#yield>
+                "123.2" .
+
+<http://www.farmingonto.bodige#Cowpea_(Fodder)>
+        <http://www.farmingonto.bodige#yield>
+                "120.36" .
+
+<http://www.farmingonto.bodige#Tea>
+        <http://www.farmingonto.bodige#yield>
+                "95.8" .

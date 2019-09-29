@@ -1,0 +1,204 @@
+<http://www.farmingonto.bodige#United_Republic_of_Tanzania>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Plough-down_Crops> , <http://www.farmingonto.bodige#
+                > .
+
+<http://www.farmingonto.bodige#Latvia>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Inter-cropping> , <http://www.farmingonto.bodige#Organic_Pesticides> .
+
+<http://www.farmingonto.bodige#Russian_Federation>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Crop_Rotation> .
+
+<http://www.farmingonto.bodige#Slovakia>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Fallowing> .
+
+<http://www.farmingonto.bodige#Costa_Rica>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Fallowing> .
+
+<http://www.farmingonto.bodige#Malta>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Inter-cropping> .
+
+<http://www.farmingonto.bodige#India>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Permaculture> , <http://www.farmingonto.bodige#Low_or_Zero-Tillage> .
+
+<http://www.farmingonto.bodige#Belgium>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Low_or_Zero-Tillage> , <http://www.farmingonto.bodige#Inter-cropping> .
+
+<http://www.farmingonto.bodige#Brazil>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Organic_Farming> , <http://www.farmingonto.bodige#Low_or_Zero-Tillage> .
+
+<http://www.farmingonto.bodige#Austria>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Crop_Rotation> , <http://www.farmingonto.bodige#Organic_Farming> .
+
+<http://www.farmingonto.bodige#Hungary>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Agroforestry> , <http://www.farmingonto.bodige#Composting> .
+
+<http://www.farmingonto.bodige#Colombia>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Crop_Rotation> .
+
+<http://www.farmingonto.bodige#Albania>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Organic_Pesticides> .
+
+<http://www.farmingonto.bodige#Paraguay>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Agroforestry> , <http://www.farmingonto.bodige#Mixed_Farming> .
+
+<http://www.farmingonto.bodige#Timor-Leste>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Low_or_Zero-Tillage> .
+
+<http://www.farmingonto.bodige#Uganda>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Fallowing> , <http://www.farmingonto.bodige#Agroforestry> .
+
+<http://www.farmingonto.bodige#Denmark>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Contour_Ploughing> .
+
+<http://www.farmingonto.bodige#Peru>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Permaculture> , <http://www.farmingonto.bodige#Organic_Farming> .
+
+<http://www.farmingonto.bodige#Sweden>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Inter-cropping> .
+
+<http://www.farmingonto.bodige#Mongolia>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Low_or_Zero-Tillage> .
+
+<http://www.farmingonto.bodige#Poland>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Inter-cropping> .
+
+<http://www.farmingonto.bodige#Cyprus>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Plough-down_Crops> .
+
+<http://www.farmingonto.bodige#Tajikistan>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Composting> .
+
+<http://www.farmingonto.bodige#Lithuania>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Composting> , <http://www.farmingonto.bodige#Fallowing> .
+
+<http://www.farmingonto.bodige#Ireland>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Plough-down_Crops> , <http://www.farmingonto.bodige#Agroforestry> .
+
+<http://www.farmingonto.bodige#Croatia>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Green_Manure> .
+
+<http://www.farmingonto.bodige#>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Green_Manure> .
+
+<http://www.farmingonto.bodige#Ghana>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Organic_Pesticides> .
+
+<http://www.farmingonto.bodige#Finland>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Low_or_Zero-Tillage> .
+
+<http://www.farmingonto.bodige#Portugal>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Composting> .
+
+<http://www.farmingonto.bodige#Uruguay>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Low_or_Zero-Tillage> .
+
+<http://www.farmingonto.bodige#Ethiopia>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Composting> .
+
+<http://www.farmingonto.bodige#Mali>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Organic_Pesticides> , <http://www.farmingonto.bodige#Contour_Ploughing> .
+
+<http://www.farmingonto.bodige#Mexico>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Composting> .
+
+<http://www.farmingonto.bodige#Burkina_Faso>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Composting> , <http://www.farmingonto.bodige#Permaculture> .
+
+<http://www.farmingonto.bodige#Bulgaria>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Inter-cropping> , <http://www.farmingonto.bodige#Agroforestry> .
+
+<http://www.farmingonto.bodige#Luxembourg>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Low_or_Zero-Tillage> , <http://www.farmingonto.bodige#Green_Manure> .
+
+<http://www.farmingonto.bodige#Bosnia_and_Herzegovina>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Mixed_Farming> , <http://www.farmingonto.bodige#Composting> .
+
+<http://www.farmingonto.bodige#Spain>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Contour_Ploughing> .
+
+<http://www.farmingonto.bodige#United_States_of_America>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Composting> .
+
+<http://www.farmingonto.bodige#Germany>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Permaculture> .
+
+<http://www.farmingonto.bodige#Slovenia>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Green_Manure> .
+
+<http://www.farmingonto.bodige#South_Africa>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Plough-down_Crops> .
+
+<http://www.farmingonto.bodige#Romania>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Low_or_Zero-Tillage> .
+
+<http://www.farmingonto.bodige#France>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Agroforestry> .
+
+<http://www.farmingonto.bodige#Estonia>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Inter-cropping> .
+
+<http://www.farmingonto.bodige#Malawi>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Agroforestry> , <http://www.farmingonto.bodige#Plough-down_Crops> .
+
+<http://www.farmingonto.bodige#Greece>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Inter-cropping> .
+
+<http://www.farmingonto.bodige#Italy>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Contour_Ploughing> , <http://www.farmingonto.bodige#Permaculture> .
+
+<http://www.farmingonto.bodige#Cambodia>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Low_or_Zero-Tillage> , <http://www.farmingonto.bodige#Organic_Pesticides> .
+
+<http://www.farmingonto.bodige#United_Kingdom>
+        <http://www.farmingonto.bodige#technique_used>
+                <http://www.farmingonto.bodige#Contour_Ploughing> , <http://www.farmingonto.bodige#Green_Manure> , <http://www.farmingonto.bodige#Organic_Pesticides> .

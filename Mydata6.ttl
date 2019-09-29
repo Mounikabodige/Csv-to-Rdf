@@ -1,0 +1,83 @@
+<http://www.farmingonto.bodige#West_Bengal,_Orissa_and_Manipur_under_Kharif_rainfed_condition.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Eastern_Uttar_Pradesh,_Bihar,_Jharkhand,_West_Bengal_(except_Hills),_Orissa,_Assam_and_the_place_of_North_Eastern_states_in_late_sown_condition.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Gujarat,_Southern_Part_of_Rajasthan,_Maharashtra_and_Madhya_Pradesh.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Karnataka,_Tamil_Nadu_and_Orissa_in_Kharif_season.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Maharashtra,_Madhya_Pradesh_under_irrigated_conditions._>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Andhra_Pradesh,_Orissa,_Assam,_Maharashtra,_Bihar_and_West_Bengal_under_rainfed_conditions.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#West_Bengal_and_Assam_under_rainfed_agro_system.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Chhattisgarh,_Jharkhand,_Karnataka,_Maharashtra,_Tamil_Nadu_and_Uttarakhand_in_Kharif__season.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Punjab,_Haryana,_Plains_of_Uttarakhand,_Western_Uttar_Pradesh,_Delhi_and_Rajasthan_as_a_pure_crop_in_Rabi_season.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Uttar_Pradesh,_Madhya_Pradesh,_Uttarakhand_and_Kota_region_of_Rajasthan_in_multiple_cropping_systems.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#South_India_under_rainfed_conditions.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#UP,_West_Bengal,_Haryana,_Bihar,_Gujarat,_Uttarakhand_and_Manipur._>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Uttar_Pradesh_(except_Bundelkhand),_Bihar,_Assam,_West_Bengal_and_Jharkhand_under_timely_sown_irrigated_condition.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Punjab,_Haryana_and_Rajasthan_under_irrigated_condition.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Punjab,_Haryana,_Plains_of_Uttarakhand,_Western_Uttar_Pradesh,_Delhi_and_parts_of_Rajasthan_during_Rabi_season.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Andhra_Pradesh,_Karnataka,_Tamil_Nadu_and_Maharashtra_under_normal_Kharif_season.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#The_temperate_and_sub-temperate_grasslands_and_pastures_of_hill_zone_of_the_country_comprising_states_of_Himachal_Pradesh,_Uttarakhand_and_Jammu_&_Kashmir.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Madhya_Pradesh,_Gujarat_and_Maharashtra_under_timely_sown_irrigated_condition_suitable_for_single_cut_system.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Karnataka,_Tamil_Nadu_and_Maharashtra_in_Kharif_season_under_irrigated_and_rainfed_conditions.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Madhya_Pradesh,_Maharashtra,_Gujarat,_Southern_Part_of_UP,_Andhra_Pradesh,_Tamil_Nadu,_Karnataka_and_Kerala_under_irrigated_conditions.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Orissa,_West_Bengal,_Tamil_Nadu_and_Andhra_Pradesh_under_irrigated_late_sown_conditions_as_well_as_shallow_rainfed_lowland.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Uttar_Pradesh,_Madhya_Pradesh,_Haryana,_Gujarat_and_Rajasthan_under_timely_sowing,_normal_fertility_and_rainfed_conditions._>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Rajasthan,_Uttar_Pradesh,_Maharashtra,_Gujarat,_Karnataka,_Himachal_Pradesh,_Punjab,_Haryana_and_Jammu_and_Kashmir.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#MP,_South_Rajasthan,_Chhattisgarh,_Maharashtra,_Gujarat,_Bundelkhand_Region_of_UP_under_irrigated_conditions_during_Rabi_Season.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Punjab,_Haryana_and_Uttar_Pradesh_under_wilt_free_area.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#States_of_Uttarakhand,_HP,_J_&_K,_Punjab,_Haryana,_Rajasthan,_UP,_MP,_Chhattisgarh,_Bihar,_Jharkhand,_West_Bengal,_Orissa,_Assam,_Gujarat_and_Maharashtra_in_irrigated_summer_and_rainfed_Kharif.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Punjab,_Haryana,_Rajasthan,_Uttarakhand,_Central_and_Western_Uttar_Pradesh.>
+        a       <http://www.farmingonto.bodige#reco_area> .
+
+<http://www.farmingonto.bodige#Punjab,_Haryana,_Western_Uttar_Pradesh_and_Plains_of_Uttarakhand_in_Kharif_season.>
+        a       <http://www.farmingonto.bodige#reco_area> .

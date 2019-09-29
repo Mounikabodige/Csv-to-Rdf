@@ -1,0 +1,295 @@
+<http://www.farmingonto.bodige#Garlic>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Orissa,_West_Bengal,_Tamil_Nadu_and_Andhra_Pradesh_under_irrigated_late_sown_conditions_as_well_as_shallow_rainfed_lowland.> .
+
+<http://www.farmingonto.bodige#Turmeric>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#West_Bengal,_Orissa_and_Manipur_under_Kharif_rainfed_condition.> .
+
+<http://www.farmingonto.bodige#Tobacco>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#West_Bengal,_Orissa_and_Manipur_under_Kharif_rainfed_condition.> .
+
+<http://www.farmingonto.bodige#Jowar>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#UP,_West_Bengal,_Haryana,_Bihar,_Gujarat,_Uttarakhand_and_Manipur._> .
+
+<http://www.farmingonto.bodige#Niger_seed>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Karnataka,_Tamil_Nadu_and_Orissa_in_Kharif_season.> .
+
+<http://www.farmingonto.bodige#Cotton_seed>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Madhya_Pradesh,_Maharashtra,_Gujarat,_Southern_Part_of_UP,_Andhra_Pradesh,_Tamil_Nadu,_Karnataka_and_Kerala_under_irrigated_conditions.> .
+
+<http://www.farmingonto.bodige#Total_Non-Food_grains>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#South_India_under_rainfed_conditions.> .
+
+<http://www.farmingonto.bodige#Tall_Fescue_Grass>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#The_temperate_and_sub-temperate_grasslands_and_pastures_of_hill_zone_of_the_country_comprising_states_of_Himachal_Pradesh,_Uttarakhand_and_Jammu_&_Kashmir.> .
+
+<http://www.farmingonto.bodige#Castor_seed>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana,_Plains_of_Uttarakhand,_Western_Uttar_Pradesh,_Delhi_and_parts_of_Rajasthan_during_Rabi_season.> .
+
+<http://www.farmingonto.bodige#Total_Oilseeds>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana,_Rajasthan,_Uttarakhand,_Central_and_Western_Uttar_Pradesh.> .
+
+<http://www.farmingonto.bodige#Mungbean>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Karnataka,_Tamil_Nadu_and_Orissa_in_Kharif_season.> .
+
+<http://www.farmingonto.bodige#French_Bean>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Gujarat,_Southern_Part_of_Rajasthan,_Maharashtra_and_Madhya_Pradesh.> .
+
+<http://www.farmingonto.bodige#Dry_chilies>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#UP,_West_Bengal,_Haryana,_Bihar,_Gujarat,_Uttarakhand_and_Manipur._> .
+
+<http://www.farmingonto.bodige#Coconut>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana,_Rajasthan,_Uttarakhand,_Central_and_Western_Uttar_Pradesh.> .
+
+<http://www.farmingonto.bodige#Arecanut>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Rajasthan,_Uttar_Pradesh,_Maharashtra,_Gujarat,_Karnataka,_Himachal_Pradesh,_Punjab,_Haryana_and_Jammu_and_Kashmir.> .
+
+<http://www.farmingonto.bodige#Arhar>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Karnataka,_Tamil_Nadu_and_Orissa_in_Kharif_season.> .
+
+<http://www.farmingonto.bodige#Jute>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Madhya_Pradesh,_Maharashtra,_Gujarat,_Southern_Part_of_UP,_Andhra_Pradesh,_Tamil_Nadu,_Karnataka_and_Kerala_under_irrigated_conditions.> , <http://www.farmingonto.bodige#West_Bengal_and_Assam_under_rainfed_agro_system.> .
+
+<http://www.farmingonto.bodige#Sannhamp>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#States_of_Uttarakhand,_HP,_J_&_K,_Punjab,_Haryana,_Rajasthan,_UP,_MP,_Chhattisgarh,_Bihar,_Jharkhand,_West_Bengal,_Orissa,_Assam,_Gujarat_and_Maharashtra_in_irrigated_summer_and_rainfed_Kharif.> .
+
+<http://www.farmingonto.bodige#Ragi>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Rajasthan,_Uttar_Pradesh,_Maharashtra,_Gujarat,_Karnataka,_Himachal_Pradesh,_Punjab,_Haryana_and_Jammu_and_Kashmir.> .
+
+<http://www.farmingonto.bodige#Dry_ginger>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Uttar_Pradesh_(except_Bundelkhand),_Bihar,_Assam,_West_Bengal_and_Jharkhand_under_timely_sown_irrigated_condition.> .
+
+<http://www.farmingonto.bodige#Rapeseed_&Mustard>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#The_temperate_and_sub-temperate_grasslands_and_pastures_of_hill_zone_of_the_country_comprising_states_of_Himachal_Pradesh,_Uttarakhand_and_Jammu_&_Kashmir.> .
+
+<http://www.farmingonto.bodige#Total_Fruits_&_Vegetables>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Eastern_Uttar_Pradesh,_Bihar,_Jharkhand,_West_Bengal_(except_Hills),_Orissa,_Assam_and_the_place_of_North_Eastern_states_in_late_sown_condition.> .
+
+<http://www.farmingonto.bodige#Yellow_Sarson>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#UP,_West_Bengal,_Haryana,_Bihar,_Gujarat,_Uttarakhand_and_Manipur._> .
+
+<http://www.farmingonto.bodige#Mesta>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Madhya_Pradesh,_Gujarat_and_Maharashtra_under_timely_sown_irrigated_condition_suitable_for_single_cut_system.> , <http://www.farmingonto.bodige#Andhra_Pradesh,_Orissa,_Assam,_Maharashtra,_Bihar_and_West_Bengal_under_rainfed_conditions.> .
+
+<http://www.farmingonto.bodige#Fieldpea>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana,_Plains_of_Uttarakhand,_Western_Uttar_Pradesh,_Delhi_and_parts_of_Rajasthan_during_Rabi_season.> .
+
+<http://www.farmingonto.bodige#Banana>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#UP,_West_Bengal,_Haryana,_Bihar,_Gujarat,_Uttarakhand_and_Manipur._> .
+
+<http://www.farmingonto.bodige#Tapioca>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Andhra_Pradesh,_Karnataka,_Tamil_Nadu_and_Maharashtra_under_normal_Kharif_season.> .
+
+<http://www.farmingonto.bodige#Barley>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Maharashtra,_Madhya_Pradesh_under_irrigated_conditions._> .
+
+<http://www.farmingonto.bodige#Soyabean>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Uttar_Pradesh,_Madhya_Pradesh,_Haryana,_Gujarat_and_Rajasthan_under_timely_sowing,_normal_fertility_and_rainfed_conditions._> .
+
+<http://www.farmingonto.bodige#Total_Fibers>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Madhya_Pradesh,_Gujarat_and_Maharashtra_under_timely_sown_irrigated_condition_suitable_for_single_cut_system.> .
+
+<http://www.farmingonto.bodige#Indian_Mustard>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Uttar_Pradesh,_Madhya_Pradesh,_Uttarakhand_and_Kota_region_of_Rajasthan_in_multiple_cropping_systems.> .
+
+<http://www.farmingonto.bodige#Coriander>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Maharashtra,_Madhya_Pradesh_under_irrigated_conditions._> .
+
+<http://www.farmingonto.bodige#Sunflower>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana,_Western_Uttar_Pradesh_and_Plains_of_Uttarakhand_in_Kharif_season.> .
+
+<http://www.farmingonto.bodige#Finger_Millet>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Chhattisgarh,_Jharkhand,_Karnataka,_Maharashtra,_Tamil_Nadu_and_Uttarakhand_in_Kharif__season.> .
+
+<http://www.farmingonto.bodige#Urdbean>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana,_Western_Uttar_Pradesh_and_Plains_of_Uttarakhand_in_Kharif_season.> .
+
+<http://www.farmingonto.bodige#Rice>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Uttar_Pradesh,_Madhya_Pradesh,_Uttarakhand_and_Kota_region_of_Rajasthan_in_multiple_cropping_systems.> .
+
+<http://www.farmingonto.bodige#Coffee>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Andhra_Pradesh,_Orissa,_Assam,_Maharashtra,_Bihar_and_West_Bengal_under_rainfed_conditions.> .
+
+<http://www.farmingonto.bodige#Cardamom>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#MP,_South_Rajasthan,_Chhattisgarh,_Maharashtra,_Gujarat,_Bundelkhand_Region_of_UP_under_irrigated_conditions_during_Rabi_Season.> .
+
+<http://www.farmingonto.bodige#Small_millets>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#MP,_South_Rajasthan,_Chhattisgarh,_Maharashtra,_Gujarat,_Bundelkhand_Region_of_UP_under_irrigated_conditions_during_Rabi_Season.> .
+
+<http://www.farmingonto.bodige#Napier_Bajra_Hybrid>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Madhya_Pradesh,_Maharashtra,_Gujarat,_Southern_Part_of_UP,_Andhra_Pradesh,_Tamil_Nadu,_Karnataka_and_Kerala_under_irrigated_conditions.> .
+
+<http://www.farmingonto.bodige#Oat>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Madhya_Pradesh,_Gujarat_and_Maharashtra_under_timely_sown_irrigated_condition_suitable_for_single_cut_system.> .
+
+<http://www.farmingonto.bodige#Cotton>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana_and_Uttar_Pradesh_under_wilt_free_area.> .
+
+<http://www.farmingonto.bodige#Groundnut>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Madhya_Pradesh,_Maharashtra,_Gujarat,_Southern_Part_of_UP,_Andhra_Pradesh,_Tamil_Nadu,_Karnataka_and_Kerala_under_irrigated_conditions.> , <http://www.farmingonto.bodige#West_Bengal,_Orissa_and_Manipur_under_Kharif_rainfed_condition.> .
+
+<http://www.farmingonto.bodige#Sweet_potato>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Chhattisgarh,_Jharkhand,_Karnataka,_Maharashtra,_Tamil_Nadu_and_Uttarakhand_in_Kharif__season.> .
+
+<http://www.farmingonto.bodige#Gram>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Gujarat,_Southern_Part_of_Rajasthan,_Maharashtra_and_Madhya_Pradesh.> .
+
+<http://www.farmingonto.bodige#Jute_&_Mesta>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#The_temperate_and_sub-temperate_grasslands_and_pastures_of_hill_zone_of_the_country_comprising_states_of_Himachal_Pradesh,_Uttarakhand_and_Jammu_&_Kashmir.> .
+
+<http://www.farmingonto.bodige#Cluster_Bean>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Uttar_Pradesh,_Madhya_Pradesh,_Haryana,_Gujarat_and_Rajasthan_under_timely_sowing,_normal_fertility_and_rainfed_conditions._> .
+
+<http://www.farmingonto.bodige#Other_Pulses>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana,_Western_Uttar_Pradesh_and_Plains_of_Uttarakhand_in_Kharif_season.> .
+
+<http://www.farmingonto.bodige#Total_Pulses>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Uttar_Pradesh,_Madhya_Pradesh,_Haryana,_Gujarat_and_Rajasthan_under_timely_sowing,_normal_fertility_and_rainfed_conditions._> .
+
+<http://www.farmingonto.bodige#Horse_Gram>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#South_India_under_rainfed_conditions.> .
+
+<http://www.farmingonto.bodige#Desi_Cotton>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana_and_Rajasthan_under_irrigated_condition.> .
+
+<http://www.farmingonto.bodige#Maize>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#West_Bengal,_Orissa_and_Manipur_under_Kharif_rainfed_condition.> , <http://www.farmingonto.bodige#Karnataka,_Tamil_Nadu_and_Maharashtra_in_Kharif_season_under_irrigated_and_rainfed_conditions.> .
+
+<http://www.farmingonto.bodige#Cotton(lint)>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana,_Rajasthan,_Uttarakhand,_Central_and_Western_Uttar_Pradesh.> .
+
+<http://www.farmingonto.bodige#Coarse_Cereals>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana,_Plains_of_Uttarakhand,_Western_Uttar_Pradesh,_Delhi_and_Rajasthan_as_a_pure_crop_in_Rabi_season.> .
+
+<http://www.farmingonto.bodige#Potato>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Karnataka,_Tamil_Nadu_and_Maharashtra_in_Kharif_season_under_irrigated_and_rainfed_conditions.> .
+
+<http://www.farmingonto.bodige#Sesamum>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Madhya_Pradesh,_Gujarat_and_Maharashtra_under_timely_sown_irrigated_condition_suitable_for_single_cut_system.> .
+
+<http://www.farmingonto.bodige#Pearl_Millet>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Andhra_Pradesh,_Karnataka,_Tamil_Nadu_and_Maharashtra_under_normal_Kharif_season.> .
+
+<http://www.farmingonto.bodige#Black_pepper>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Uttar_Pradesh,_Madhya_Pradesh,_Uttarakhand_and_Kota_region_of_Rajasthan_in_multiple_cropping_systems.> .
+
+<http://www.farmingonto.bodige#Total_Spices>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana_and_Rajasthan_under_irrigated_condition.> .
+
+<http://www.farmingonto.bodige#Wheat>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Eastern_Uttar_Pradesh,_Bihar,_Jharkhand,_West_Bengal_(except_Hills),_Orissa,_Assam_and_the_place_of_North_Eastern_states_in_late_sown_condition.> .
+
+<http://www.farmingonto.bodige#Safflower>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Gujarat,_Southern_Part_of_Rajasthan,_Maharashtra_and_Madhya_Pradesh.> .
+
+<http://www.farmingonto.bodige#Sugarcane>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Uttar_Pradesh_(except_Bundelkhand),_Bihar,_Assam,_West_Bengal_and_Jharkhand_under_timely_sown_irrigated_condition.> , <http://www.farmingonto.bodige#Punjab,_Haryana,_Rajasthan,_Uttarakhand,_Central_and_Western_Uttar_Pradesh.> .
+
+<http://www.farmingonto.bodige#Rubber>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana_and_Uttar_Pradesh_under_wilt_free_area.> .
+
+<http://www.farmingonto.bodige#Onion>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Uttar_Pradesh,_Madhya_Pradesh,_Uttarakhand_and_Kota_region_of_Rajasthan_in_multiple_cropping_systems.> .
+
+<http://www.farmingonto.bodige#Sesame>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Rajasthan,_Uttar_Pradesh,_Maharashtra,_Gujarat,_Karnataka,_Himachal_Pradesh,_Punjab,_Haryana_and_Jammu_and_Kashmir.> .
+
+<http://www.farmingonto.bodige#Nine_Oilseeds>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#South_India_under_rainfed_conditions.> .
+
+<http://www.farmingonto.bodige#Bengal_Gram>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Maharashtra,_Madhya_Pradesh_under_irrigated_conditions._> .
+
+<http://www.farmingonto.bodige#Lentil>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana,_Plains_of_Uttarakhand,_Western_Uttar_Pradesh,_Delhi_and_Rajasthan_as_a_pure_crop_in_Rabi_season.> .
+
+<http://www.farmingonto.bodige#Bajra>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Uttar_Pradesh_(except_Bundelkhand),_Bihar,_Assam,_West_Bengal_and_Jharkhand_under_timely_sown_irrigated_condition.> .
+
+<http://www.farmingonto.bodige#Linseed>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana,_Plains_of_Uttarakhand,_Western_Uttar_Pradesh,_Delhi_and_Rajasthan_as_a_pure_crop_in_Rabi_season.> , <http://www.farmingonto.bodige#Uttar_Pradesh_(except_Bundelkhand),_Bihar,_Assam,_West_Bengal_and_Jharkhand_under_timely_sown_irrigated_condition.> .
+
+<http://www.farmingonto.bodige#Cereals>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#Punjab,_Haryana,_Plains_of_Uttarakhand,_Western_Uttar_Pradesh,_Delhi_and_parts_of_Rajasthan_during_Rabi_season.> .
+
+<http://www.farmingonto.bodige#Chickpea>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#MP,_South_Rajasthan,_Chhattisgarh,_Maharashtra,_Gujarat,_Bundelkhand_Region_of_UP_under_irrigated_conditions_during_Rabi_Season.> .
+
+<http://www.farmingonto.bodige#Cowpea_(Fodder)>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#States_of_Uttarakhand,_HP,_J_&_K,_Punjab,_Haryana,_Rajasthan,_UP,_MP,_Chhattisgarh,_Bihar,_Jharkhand,_West_Bengal,_Orissa,_Assam,_Gujarat_and_Maharashtra_in_irrigated_summer_and_rainfed_Kharif.> .
+
+<http://www.farmingonto.bodige#Tea>
+        <http://www.farmingonto.bodige#grown_in>
+                <http://www.farmingonto.bodige#West_Bengal_and_Assam_under_rainfed_agro_system.> .

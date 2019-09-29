@@ -1,0 +1,291 @@
+<http://www.farmingonto.bodige#Beer>
+        <http://www.farmingonto.bodige#cost_of_production>
+                810.25 .
+
+<http://www.farmingonto.bodige#Wine>
+        <http://www.farmingonto.bodige#cost_of_production>
+                85.79 .
+
+<http://www.farmingonto.bodige#Fruits_-_Excluding_Wine>
+        <http://www.farmingonto.bodige#cost_of_production>
+                62.8 .
+
+<http://www.farmingonto.bodige#Sugar_cane>
+        <http://www.farmingonto.bodige#cost_of_production>
+                2127.35 .
+
+<http://www.farmingonto.bodige#Treenuts>
+        <http://www.farmingonto.bodige#cost_of_production>
+                116.8 .
+
+<http://www.farmingonto.bodige#Bovine_Meat>
+        <http://www.farmingonto.bodige#cost_of_production>
+                769.84 .
+
+<http://www.farmingonto.bodige#Mutton_&_Goat_Meat>
+        <http://www.farmingonto.bodige#cost_of_production>
+                683.58 .
+
+<http://www.farmingonto.bodige#Miscellaneous>
+        <http://www.farmingonto.bodige#cost_of_production>
+                199.6 .
+
+<http://www.farmingonto.bodige#Pulses>
+        <http://www.farmingonto.bodige#cost_of_production>
+                217.5 , 150.9 .
+
+<http://www.farmingonto.bodige#Animal_fats>
+        <http://www.farmingonto.bodige#cost_of_production>
+                212.8 .
+
+<http://www.farmingonto.bodige#Honey>
+        <http://www.farmingonto.bodige#cost_of_production>
+                2277.68 .
+
+<http://www.farmingonto.bodige#Sweeteners,_Other>
+        <http://www.farmingonto.bodige#cost_of_production>
+                1882.68 .
+
+<http://www.farmingonto.bodige#Cream>
+        <http://www.farmingonto.bodige#cost_of_production>
+                161.5 .
+
+<http://www.farmingonto.bodige#Vegetables,_Other>
+        <http://www.farmingonto.bodige#cost_of_production>
+                732.62 .
+
+<http://www.farmingonto.bodige#Cottonseed_Oil>
+        <http://www.farmingonto.bodige#cost_of_production>
+                840.58 .
+
+<http://www.farmingonto.bodige#Bananas>
+        <http://www.farmingonto.bodige#cost_of_production>
+                669.86 .
+
+<http://www.farmingonto.bodige#Citrus,_Other>
+        <http://www.farmingonto.bodige#cost_of_production>
+                731.25 .
+
+<http://www.farmingonto.bodige#Spices>
+        <http://www.farmingonto.bodige#cost_of_production>
+                192.3 .
+
+<http://www.farmingonto.bodige#Sugar_&_Sweeteners>
+        <http://www.farmingonto.bodige#cost_of_production>
+                156.8 .
+
+<http://www.farmingonto.bodige#Rape_and_Mustard_Oil>
+        <http://www.farmingonto.bodige#cost_of_production>
+                1387.36 .
+
+<http://www.farmingonto.bodige#Stimulants>
+        <http://www.farmingonto.bodige#cost_of_production>
+                59 .
+
+<http://www.farmingonto.bodige#Palm_Oil>
+        <http://www.farmingonto.bodige#cost_of_production>
+                2614.14 .
+
+<http://www.farmingonto.bodige#Sugar_Crops>
+        <http://www.farmingonto.bodige#cost_of_production>
+                135.4 .
+
+<http://www.farmingonto.bodige#Olive_Oil>
+        <http://www.farmingonto.bodige#cost_of_production>
+                5777.48 .
+
+<http://www.farmingonto.bodige#Butter,_Ghee>
+        <http://www.farmingonto.bodige#cost_of_production>
+                137.8 .
+
+<http://www.farmingonto.bodige#Oranges,_Mandarines>
+        <http://www.farmingonto.bodige#cost_of_production>
+                715.04 .
+
+<http://www.farmingonto.bodige#Nuts_and_products>
+        <http://www.farmingonto.bodige#cost_of_production>
+                2554.91 .
+
+<http://www.farmingonto.bodige#Olives_(including_preserved)>
+        <http://www.farmingonto.bodige#cost_of_production>
+                3207.35 .
+
+<http://www.farmingonto.bodige#Oilcrops_Oil,_Other>
+        <http://www.farmingonto.bodige#cost_of_production>
+                2228.97 .
+
+<http://www.farmingonto.bodige#Alcoholic_Beverages>
+        <http://www.farmingonto.bodige#cost_of_production>
+                313.8 .
+
+<http://www.farmingonto.bodige#Sugar_beet>
+        <http://www.farmingonto.bodige#cost_of_production>
+                1691.66 .
+
+<http://www.farmingonto.bodige#Poultry_Meat>
+        <http://www.farmingonto.bodige#cost_of_production>
+                168.6 .
+
+<http://www.farmingonto.bodige#Sesame_seed>
+        <http://www.farmingonto.bodige#cost_of_production>
+                1918.92 .
+
+<http://www.farmingonto.bodige#Fats,_Animals,_Raw>
+        <http://www.farmingonto.bodige#cost_of_production>
+                249.6 .
+
+<http://www.farmingonto.bodige#Cereals,_Other>
+        <http://www.farmingonto.bodige#cost_of_production>
+                2509.99 .
+
+<http://www.farmingonto.bodige#Infant_food>
+        <http://www.farmingonto.bodige#cost_of_production>
+                174.6 .
+
+<http://www.farmingonto.bodige#Dates>
+        <http://www.farmingonto.bodige#cost_of_production>
+                1341.29 .
+
+<http://www.farmingonto.bodige#Tomatoes_and_products>
+        <http://www.farmingonto.bodige#cost_of_production>
+                2261.24 .
+
+<http://www.farmingonto.bodige#Barley_and_products>
+        <http://www.farmingonto.bodige#cost_of_production>
+                3670.54 , 1898.3 .
+
+<http://www.farmingonto.bodige#Coffee_and_products>
+        <http://www.farmingonto.bodige#cost_of_production>
+                1251.12 .
+
+<http://www.farmingonto.bodige#Meat>
+        <http://www.farmingonto.bodige#cost_of_production>
+                180.2 .
+
+<http://www.farmingonto.bodige#Vegetable_Oils>
+        <http://www.farmingonto.bodige#cost_of_production>
+                54.4 .
+
+<http://www.farmingonto.bodige#Eggs>
+        <http://www.farmingonto.bodige#cost_of_production>
+                203.5 , 83.6 .
+
+<http://www.farmingonto.bodige#Fruits,_Other>
+        <http://www.farmingonto.bodige#cost_of_production>
+                1610.4 .
+
+<http://www.farmingonto.bodige#Cereals_-_Excluding_Beer>
+        <http://www.farmingonto.bodige#cost_of_production>
+                128.9 , 127.6 .
+
+<http://www.farmingonto.bodige#Millet_and_products>
+        <http://www.farmingonto.bodige#cost_of_production>
+                2003.76 .
+
+<http://www.farmingonto.bodige#Meat,_Other>
+        <http://www.farmingonto.bodige#cost_of_production>
+                207.9 .
+
+<http://www.farmingonto.bodige#Potatoes_and_products>
+        <http://www.farmingonto.bodige#cost_of_production>
+                2179.26 .
+
+<http://www.farmingonto.bodige#Apples_and_products>
+        <http://www.farmingonto.bodige#cost_of_production>
+                789.9 .
+
+<http://www.farmingonto.bodige#Pulses,_Other_and_products>
+        <http://www.farmingonto.bodige#cost_of_production>
+                3484.01 , 1559.04 .
+
+<http://www.farmingonto.bodige#Tea_(including_mate)>
+        <http://www.farmingonto.bodige#cost_of_production>
+                86.53 .
+
+<http://www.farmingonto.bodige#Oilcrops>
+        <http://www.farmingonto.bodige#cost_of_production>
+                108.8 .
+
+<http://www.farmingonto.bodige#Sunflowerseed_Oil>
+        <http://www.farmingonto.bodige#cost_of_production>
+                658.77 .
+
+<http://www.farmingonto.bodige#Maize_and_products>
+        <http://www.farmingonto.bodige#cost_of_production>
+                2539.47 , 2775.8 .
+
+<http://www.farmingonto.bodige#Spices,_Other>
+        <http://www.farmingonto.bodige#cost_of_production>
+                107.56 .
+
+<http://www.farmingonto.bodige#Grapes_and_products_(excl_wine)>
+        <http://www.farmingonto.bodige#cost_of_production>
+                1595.56 .
+
+<http://www.farmingonto.bodige#Starchy_Roots>
+        <http://www.farmingonto.bodige#cost_of_production>
+                148.9 .
+
+<http://www.farmingonto.bodige#Rice_(Milled_Equivalent)>
+        <http://www.farmingonto.bodige#cost_of_production>
+                2172.46 .
+
+<http://www.farmingonto.bodige#Beverages,_Alcoholic>
+        <http://www.farmingonto.bodige#cost_of_production>
+                804.8 .
+
+<http://www.farmingonto.bodige#Pineapples_and_products>
+        <http://www.farmingonto.bodige#cost_of_production>
+                1279.6 .
+
+<http://www.farmingonto.bodige#Freshwater_Fish>
+        <http://www.farmingonto.bodige#cost_of_production>
+                166.4 .
+
+<http://www.farmingonto.bodige#Offals>
+        <http://www.farmingonto.bodige#cost_of_production>
+                91.4 .
+
+<http://www.farmingonto.bodige#Soyabean_Oil>
+        <http://www.farmingonto.bodige#cost_of_production>
+                404.43 .
+
+<http://www.farmingonto.bodige#Offals,_Edible>
+        <http://www.farmingonto.bodige#cost_of_production>
+                136.4 .
+
+<http://www.farmingonto.bodige#Coconuts_-_Incl_Copra>
+        <http://www.farmingonto.bodige#cost_of_production>
+                2358 .
+
+<http://www.farmingonto.bodige#Vegetables>
+        <http://www.farmingonto.bodige#cost_of_production>
+                172.3 .
+
+<http://www.farmingonto.bodige#Pepper>
+        <http://www.farmingonto.bodige#cost_of_production>
+                119.72 .
+
+<http://www.farmingonto.bodige#Sesameseed_Oil>
+        <http://www.farmingonto.bodige#cost_of_production>
+                2068.67 .
+
+<http://www.farmingonto.bodige#Fish,_Seafood>
+        <http://www.farmingonto.bodige#cost_of_production>
+                84.6 .
+
+<http://www.farmingonto.bodige#Groundnut_Oil>
+        <http://www.farmingonto.bodige#cost_of_production>
+                581.69 .
+
+<http://www.farmingonto.bodige#Milk_-_Excluding_Butter>
+        <http://www.farmingonto.bodige#cost_of_production>
+                218.3 , 243.8 , 79.3 , 61.9 .
+
+<http://www.farmingonto.bodige#Cocoa_Beans_and_products>
+        <http://www.farmingonto.bodige#cost_of_production>
+                93.64 .
+
+<http://www.farmingonto.bodige#Sugar_(Raw_Equivalent)>
+        <http://www.farmingonto.bodige#cost_of_production>
+                1551.94 .

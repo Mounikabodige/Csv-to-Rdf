@@ -1,0 +1,83 @@
+<http://www.farmingonto.bodige#Pitambari_(RYSK-05-02)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#Ujjawal_(IPCK2004-29)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#PKV_AKM-4_(AKM-9904)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#SHRESTHA_(JRM-5)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#EC_178182>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#HG_884>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#MCH_36_(Hybrid)_(DKC_9099)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#CRIDALATHA_(CRHG-4)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#Mash_479_(KUG_479)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#CR_Dhan_401_(REETA)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#CICR-3_(CISA_614)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#Rajasthan_Till_351_(RT_351)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#Pusa_Mustard_27_(EJ-17)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#PKV_KABULI-4>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#Ruchi_(LCK_5021)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#GPU_67>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#FDK_124>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#Aman__(IPF_5-19)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#MH_1541_(86M53)_(Hybrid)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#UPC_628>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#Gujarat_Rajmash-1_(DPR_88-1-2)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#Phule_Jaywant_(RBN-13)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#Karan_6_(Co_0239)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#Pant_Lentil-8(Pant_L-063)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#ARPITA__(JBC-5)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#OS_346>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#Girnar_-_3_(PBS_12160)>
+        a       <http://www.farmingonto.bodige#variety> .
+
+<http://www.farmingonto.bodige#Pusa_Prachi_(HI_1563)>
+        a       <http://www.farmingonto.bodige#variety> .

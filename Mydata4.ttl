@@ -1,0 +1,295 @@
+<http://www.farmingonto.bodige#Garlic>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "134-152" .
+
+<http://www.farmingonto.bodige#Turmeric>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "135-157" .
+
+<http://www.farmingonto.bodige#Tobacco>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "158-202" .
+
+<http://www.farmingonto.bodige#Jowar>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "60-81" .
+
+<http://www.farmingonto.bodige#Niger_seed>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "135-156" .
+
+<http://www.farmingonto.bodige#Cotton_seed>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "78-81" .
+
+<http://www.farmingonto.bodige#Total_Non-Food_grains>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "137-158" .
+
+<http://www.farmingonto.bodige#Tall_Fescue_Grass>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "119-130" .
+
+<http://www.farmingonto.bodige#Castor_seed>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "140-150" .
+
+<http://www.farmingonto.bodige#Total_Oilseeds>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "108-129" .
+
+<http://www.farmingonto.bodige#Mungbean>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "110-170" .
+
+<http://www.farmingonto.bodige#French_Bean>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "108-128" .
+
+<http://www.farmingonto.bodige#Dry_chilies>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "103-113" .
+
+<http://www.farmingonto.bodige#Coconut>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "80-91" .
+
+<http://www.farmingonto.bodige#Arecanut>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "137-159" .
+
+<http://www.farmingonto.bodige#Arhar>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "103-112" .
+
+<http://www.farmingonto.bodige#Jute>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "60-82" , "158-200" .
+
+<http://www.farmingonto.bodige#Sannhamp>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "119-132" .
+
+<http://www.farmingonto.bodige#Ragi>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "119-131" .
+
+<http://www.farmingonto.bodige#Dry_ginger>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "110-172" .
+
+<http://www.farmingonto.bodige#Rapeseed_&Mustard>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "119-130" .
+
+<http://www.farmingonto.bodige#Total_Fruits_&_Vegetables>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "119-130" .
+
+<http://www.farmingonto.bodige#Yellow_Sarson>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "110-115" .
+
+<http://www.farmingonto.bodige#Mesta>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "99-122" , "80-90" .
+
+<http://www.farmingonto.bodige#Fieldpea>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "137-157" .
+
+<http://www.farmingonto.bodige#Banana>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "119-132" .
+
+<http://www.farmingonto.bodige#Tapioca>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "140-150" .
+
+<http://www.farmingonto.bodige#Barley>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "110-116" .
+
+<http://www.farmingonto.bodige#Soyabean>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "145-151" .
+
+<http://www.farmingonto.bodige#Total_Fibers>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "103-112" .
+
+<http://www.farmingonto.bodige#Indian_Mustard>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "90-130" .
+
+<http://www.farmingonto.bodige#Coriander>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "110-172" .
+
+<http://www.farmingonto.bodige#Sunflower>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "119-131" .
+
+<http://www.farmingonto.bodige#Finger_Millet>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "119-130" .
+
+<http://www.farmingonto.bodige#Urdbean>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "134-150" .
+
+<http://www.farmingonto.bodige#Rice>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "145-151" .
+
+<http://www.farmingonto.bodige#Coffee>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "110-117" .
+
+<http://www.farmingonto.bodige#Cardamom>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "108-130" .
+
+<http://www.farmingonto.bodige#Small_millets>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "90-131" .
+
+<http://www.farmingonto.bodige#Napier_Bajra_Hybrid>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "140-150" .
+
+<http://www.farmingonto.bodige#Oat>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "135-155" .
+
+<http://www.farmingonto.bodige#Cotton>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "78-80" .
+
+<http://www.farmingonto.bodige#Groundnut>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "110-171" , "108-138" .
+
+<http://www.farmingonto.bodige#Sweet_potato>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "140-150" .
+
+<http://www.farmingonto.bodige#Gram>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "140-151" .
+
+<http://www.farmingonto.bodige#Jute_&_Mesta>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "78-82" .
+
+<http://www.farmingonto.bodige#Cluster_Bean>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "119-130" .
+
+<http://www.farmingonto.bodige#Other_Pulses>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "110-171" .
+
+<http://www.farmingonto.bodige#Total_Pulses>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "135-156" .
+
+<http://www.farmingonto.bodige#Horse_Gram>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "119-130" .
+
+<http://www.farmingonto.bodige#Desi_Cotton>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "103-111" .
+
+<http://www.farmingonto.bodige#Maize>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "78-81" , "99-120" .
+
+<http://www.farmingonto.bodige#Cotton(lint)>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "145-152" .
+
+<http://www.farmingonto.bodige#Coarse_Cereals>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "134-151" .
+
+<http://www.farmingonto.bodige#Potato>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "119-130" .
+
+<http://www.farmingonto.bodige#Sesamum>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "134-151" .
+
+<http://www.farmingonto.bodige#Pearl_Millet>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "78-80" .
+
+<http://www.farmingonto.bodige#Black_pepper>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "140-152" .
+
+<http://www.farmingonto.bodige#Total_Spices>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "108-140" .
+
+<http://www.farmingonto.bodige#Wheat>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "60-80" .
+
+<http://www.farmingonto.bodige#Safflower>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "140-150" .
+
+<http://www.farmingonto.bodige#Sugarcane>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "145-152" , "140-150" .
+
+<http://www.farmingonto.bodige#Rubber>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "134-152" .
+
+<http://www.farmingonto.bodige#Onion>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "135-157" .
+
+<http://www.farmingonto.bodige#Sesame>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "140-150" .
+
+<http://www.farmingonto.bodige#Nine_Oilseeds>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "158-201" .
+
+<http://www.farmingonto.bodige#Bengal_Gram>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "110-170" .
+
+<http://www.farmingonto.bodige#Lentil>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "135-155" .
+
+<http://www.farmingonto.bodige#Bajra>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "99-121" .
+
+<http://www.farmingonto.bodige#Linseed>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "119-130" , "134-150" .
+
+<http://www.farmingonto.bodige#Cereals>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "108-139" .
+
+<http://www.farmingonto.bodige#Chickpea>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "103-111" .
+
+<http://www.farmingonto.bodige#Cowpea_(Fodder)>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "145-150" .
+
+<http://www.farmingonto.bodige#Tea>
+        <http://www.farmingonto.bodige#average_time_frame>
+                "90-132" .

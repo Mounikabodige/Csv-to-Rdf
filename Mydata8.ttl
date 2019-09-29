@@ -1,0 +1,143 @@
+<http://www.farmingonto.bodige#United_Republic_of_Tanzania>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Latvia>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Russian_Federation>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Slovakia>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Costa_Rica>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Malta>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Belgium>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Brazil>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Austria>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Hungary>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Colombia>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Paraguay>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Timor-Leste>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Uganda>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Denmark>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Peru>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Sweden>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Mongolia>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Poland>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Cyprus>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Tajikistan>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Lithuania>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Ireland>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Croatia>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Ghana>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Finland>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Portugal>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Uruguay>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Ethiopia>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Mali>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Mexico>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Burkina_Faso>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Bulgaria>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Luxembourg>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Bosnia_and_Herzegovina>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Spain>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#United_States_of_America>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Germany>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Slovenia>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#South_Africa>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Romania>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#France>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Estonia>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Malawi>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Greece>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Italy>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#Cambodia>
+        a       <http://www.farmingonto.bodige#country> .
+
+<http://www.farmingonto.bodige#United_Kingdom>
+        a       <http://www.farmingonto.bodige#country> .
